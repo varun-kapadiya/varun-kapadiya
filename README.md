@@ -14,7 +14,7 @@ Committed to continuous learning and growth, with a dedication to excellence in 
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kapadiyavarun) 
-
+[![Linkedin](https://img.shields.io/badge/Linkedin-%231DA1F2.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/varun-kapadiya-bb3014207/) 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
