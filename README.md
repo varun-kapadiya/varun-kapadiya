@@ -11,10 +11,6 @@ Effective communication and collaboration skills, contributing to seamless teamw
 Committed to continuous learning and growth, with a dedication to excellence in all technical endeavors.
 
 
-
-## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kapadiyavarun) 
-[![Linkedin](https://img.shields.io/badge/Linkedin-%231DA1F2.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/varun-kapadiya-bb3014207/) 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
@@ -24,14 +20,9 @@ Committed to continuous learning and growth, with a dedication to excellence in 
  ![HTML](https://img.shields.io/badge/html-%2300f.svg?style=for-the-badge&logo=html&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
   
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=varun-kapadiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=varun-kapadiya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=varun-kapadiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=varun-kapadiya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
